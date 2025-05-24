@@ -1,7 +1,7 @@
 ## Hi I am Naresh 👋
 
 # 💫 About Me:
-I am an Computer science student (AI & Ds)<br>My hobby is watching anime, playing video games and programming<br>Interested in AI and Math<br><br>
+An aspiring Computer science student(AI & Ds). <br>Having (watching_anime, playing_video_games and programming) as HOBBY :) <br>Interested in Gen AI .<br><br>
 
 
 ## 🌐 Socials:
