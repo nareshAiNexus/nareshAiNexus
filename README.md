@@ -5,7 +5,7 @@ An aspiring Computer science student(AI & Ds). <br>Having (watching_anime, playi
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawhat_naresh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nare7708@outlook.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/strawhat_naresh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naresh.aidev@outlook.com) 
 
 # 💻 Languages
 ___
